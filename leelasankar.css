@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.abc {
+    background-image: url('https://i.pinimg.com/564x/29/e0/78/29e0784cc1f82f89eb594abf7af91ee4.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.solo {
+    height: 550px;
+    width: 550px;
+    padding: 60px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    border-bottom-left-radius: 300px;
+    border-bottom-right-radius: 300px;
+}
+
+.av {
+    color: yellow;
+    font-size: 70px;
+
+}
+
+.q {
+    color: yellow;
+    text-align: center;
+    font-size: 38px;
+}
+
+.g {
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    color: white;
+    background-color: #22547c;
+    border-top-left-radius: 165px;
+    border-top-right-radius: 165px;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    border-width: 0px;
+    margin: 30px;
+}
+
+.y {
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    color: white;
+    background-color: #22547c;
+    border-top-left-radius: 165px;
+    border-top-right-radius: 165px;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+    border-width: 0px;
+    margin: 20px;
+}
+
+.j {
+    text-align: center;
+}
+
+.d {
+    background-image: url('https://t4.ftcdn.net/jpg/09/06/69/67/360_F_906696722_zQKtHpvCDismOUTYCCAIPR4Yk4DNMVR4.jpg');
+    color: yellow;
+    height: 150vh;
+    width: 100vw;
+    background-size: cover;
+    font-size: 20px;
+}
+
+.t {
+    font-size: 50px;
+}
+
+.ttt {
+    color: #ffffff;
+    font-size: 32px;
+}
+
+.ong {
+    font-size: 28px;
+}
